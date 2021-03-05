@@ -6,6 +6,7 @@ Created on Wednesday Jan 27 16:45:26 2021
 @author: Hangyu Chen
 """
 # Name: Hangyu Chen
+# Student ID: 873552564
 
 # This script count characters in text files and output the results in csv format.
 
